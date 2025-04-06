@@ -12,3 +12,6 @@ function App() {
       };
     
       const deleteTask = (index) => {
+        const newTasks = tasks.filter((_, i) => i !== index);
+        setTasks(newTasks);
+      };
