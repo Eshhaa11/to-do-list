@@ -1,14 +1,15 @@
 body {
+    display: flex;
     background-color: black;
+    justify-content: center;
     color: white;
     font-family: 'Arial';
-    display: flex;
-    justify-content: center;
     align-items: center;
   }
 
   input {
-     margin: 10px 0;    width: 90%;
+     margin: 10px 0;    
+     width: 90%;
     padding: 10px;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -20,9 +21,9 @@ body {
     padding: 10px 15px;
     background-color: white;
     color: black;
-    border: none;
     border-radius: 4px;
     cursor: pointer;
+    border: none;
   }
 
 
