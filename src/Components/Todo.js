@@ -2,12 +2,12 @@ import { useState } from "react";
 import './Todo.css'
 
 function App() {
-    const [tasks, setTasks] = useState([]);
+    const [task, setTask] = useState([]);
     const [taskInput, setTaskInput] = useState('');
 
     const addTask = () => {
         if (taskInput) {
-            setTasks([...tasks, taskInput]);
+            setTask([...task, taskInput]);
             setTaskInput('');
         }
       };
