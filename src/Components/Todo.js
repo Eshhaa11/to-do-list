@@ -18,6 +18,7 @@ function App() {
 
       return (
         <div>
+            <h1>TO-DO-LIST</h1>
           <input
             type="text"
             value={taskInput}
@@ -28,7 +29,7 @@ function App() {
           <ul>
             {tasks.map((task, index) => (
               <li key={index}>
-                {task} <button onClick={() => deleteTask(index)}>Delete</button>
+                {task} <button onClick={() => deleteTask(index)}>Delete this Task</button>
               </li>
             ))}
           </ul>
