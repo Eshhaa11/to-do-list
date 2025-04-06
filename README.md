@@ -21,7 +21,7 @@ To see it in action, clone the repository and follow the setup instructions belo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/todo-list
+   git clone https://github.com/Eshhaa11/to-do-list
 
 2. **Navigate to the project directory:**
 
