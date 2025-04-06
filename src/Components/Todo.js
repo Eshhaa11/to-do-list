@@ -6,3 +6,4 @@ function App() {
 
     const addTask = () => {
         if (taskInput) {
+            setTasks([...tasks, taskInput]);
