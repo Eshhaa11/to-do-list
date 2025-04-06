@@ -19,6 +19,7 @@ function App() {
       return (
         <div>
             <h1>TO-DO-LIST</h1>
+            <h2>Add your todays tasks</h2>
           <input
             type="text"
             value={taskInput}
