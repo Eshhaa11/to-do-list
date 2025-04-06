@@ -11,3 +11,4 @@ function App() {
         }
       };
     
+      const deleteTask = (index) => {
