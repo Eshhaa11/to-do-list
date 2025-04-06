@@ -5,3 +5,4 @@ function App() {
     const [taskInput, setTaskInput] = useState('');
 
     const addTask = () => {
+        if (taskInput) {
