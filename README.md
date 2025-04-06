@@ -30,3 +30,7 @@ To see it in action, clone the repository and follow the setup instructions belo
 3. **Install dependencies:**
 
    npm install
+
+4. **Start the development server:**
+
+   npm start
