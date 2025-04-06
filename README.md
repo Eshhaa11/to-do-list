@@ -25,4 +25,4 @@ To see it in action, clone the repository and follow the setup instructions belo
 
 2. **Navigate to the project directory:**
 
-   
+   cd to-do-list
