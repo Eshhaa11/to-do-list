@@ -23,4 +23,6 @@ To see it in action, clone the repository and follow the setup instructions belo
    ```bash
    git clone https://github.com/yourusername/todo-list
 
-2. 
+2. **Navigate to the project directory:**
+
+   
