@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/list.jpg)
+
 # 📝 Simple To-Do List App (React)
 
 A simple and clean To-Do List app built with **React**, featuring task addition and removal, with a modern **black and white design**.
